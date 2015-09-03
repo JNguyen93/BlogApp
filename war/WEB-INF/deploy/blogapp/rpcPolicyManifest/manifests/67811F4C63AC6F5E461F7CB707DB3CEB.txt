@@ -1,0 +1,2 @@
+serviceClass: blogapp.client.GreetingService
+path: 4144D17BEAD7158C0D8CD1A2A47E0D42.gwt.rpc

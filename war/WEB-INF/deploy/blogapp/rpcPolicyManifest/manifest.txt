@@ -1,0 +1,3 @@
+# Module blogapp
+# RPC service class, partial path of RPC policy file
+blogapp.client.GreetingService, 4144D17BEAD7158C0D8CD1A2A47E0D42.gwt.rpc

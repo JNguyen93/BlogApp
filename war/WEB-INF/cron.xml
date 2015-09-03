@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/email</url>
+    <description>Mail out a update every 24 hours</description>
+    <schedule>every 1 minutes</schedule>
+    <timezone>America/Chicago</timezone>
+  </cron>
+</cronentries>
